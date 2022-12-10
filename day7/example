@@ -1,0 +1,15 @@
+$ cd /
+$ ls
+1223 txtt
+2333 abc
+dir foo
+dir bar
+$ cd foo
+$ ls
+1234 foo.txt
+567 bar.abc
+$ cd ..
+$ cd bar
+$ ls
+420 asdf
+1337 file.txt
